@@ -5,4 +5,4 @@
 ![# sample output](9a_SampleOutput_549.png)
 
 # tested output
-![# tested output](9a_TestedOutput_549.png)
+![# tested output](9a_Testedoutput_549.png)
